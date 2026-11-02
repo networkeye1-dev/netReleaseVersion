@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.2.1",
-  "build_number": 2,
+  "latest_version": "1.3.1",
+  "build_number": 3,
   "min_supported_build": 1,
   "force_update": true,
 
-  "apk_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/download/1.2.1/tymtrak.apk",
+  "apk_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/download/1.3.1/tymtrak.apk",
   "windows_exe_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/new/Bynoq.exe",
 
-  "apk_sha256": "9f5550e626479d61d487c8c829688985c0959e749024efaeb663a9ffa1da5da7",
-  "sha256": "9f5550e626479d61d487c8c829688985c0959e749024efaeb663a9ffa1da5da7",
+  "apk_sha256": "9a7d572cdea123f4b41e78089f0e5e4d7725d34173f276ef988461ee5bdb94f4",
+  "sha256": "9a7d572cdea123f4b41e78089f0e5e4d7725d34173f276ef988461ee5bdb94f4",
   "windows_sha256": "adf9d6a0d4ab1679da2677dda3271d95e8d937ac8012671f4d9de5d2e4d29a71"
 }
 
