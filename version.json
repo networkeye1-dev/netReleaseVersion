@@ -1,14 +1,14 @@
 {
-  "latest_version": "1.6.1",
-  "build_number": 6,
+  "latest_version": "2.7.1",
+  "build_number": 7,
   "min_supported_build": 1,
   "force_update": true,
 
-  "apk_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/download/1.6.1/tmtrak.apk",
+  "apk_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/download/2.7.1/tmtrak.apk",
   "windows_exe_url": "https://github.com/networkeye1-dev/AppnetReleaseApp/releases/new/Bynoq.exe",
 
-  "apk_sha256": "b5b146f5f27855a1a877fde54b61f07d46dd55f4ccc4b00d7764d1bb2a095635",
-  "sha256": "b5b146f5f27855a1a877fde54b61f07d46dd55f4ccc4b00d7764d1bb2a095635",
+  "apk_sha256": "8620994971552838df385fc31f07d45f00abaca09ff65b61f7574ede4c47abbf",
+  "sha256": "8620994971552838df385fc31f07d45f00abaca09ff65b61f7574ede4c47abbf",
   "windows_sha256": "adf9d6a0d4ab1679da2677dda3271d95e8d937ac8012671f4d9de5d2e4d29a71"
 }
 
